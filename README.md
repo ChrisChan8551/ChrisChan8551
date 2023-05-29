@@ -5,7 +5,7 @@ I'm a passionate software developer with a strong entrepreneurial mindset, const
 - 🔭 I’m currently working on Algorithmic Problems and websites.
 - 🌱 I’m currently learning AWS, Docker, tailwind css.
 - 👯 I’m looking to collaborate on innovative development of web applications.
-- ⚡ Fun fact: My hobbies are photography, go-karts, grilling, building new things.
+- ⚡ Fun fact: My hobbies are photography, go-karts, grilling, trying / building new things.
 - 📫 How to reach me: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chris-chan-94567289/)
 
 

@@ -1,9 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AWS, Docker
-- 🌱 I’m currently learning AWS, Docker
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: chrischan8551@gmail.com
+I'm a passionate software developer with a strong entrepreneurial mindset, constantly seeking new opportunities to apply my skills and innovate in the field. With experience in developing dynamic web applications using a variety of tools and technologies, including JavaScript, Express.js, Python, React, Redux, HTML, and CSS, Always excited to explore new technologies and different approaches to software development.
 

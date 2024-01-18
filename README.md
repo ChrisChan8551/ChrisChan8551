@@ -3,11 +3,15 @@
 I'm a passionate software developer with a strong entrepreneurial mindset, constantly seeking new opportunities to apply my skills and innovate in the field. With experience in developing dynamic web applications using a variety of tools and technologies, including JavaScript, Express.js, Python, React, Redux, HTML, and CSS, Always excited to explore new technologies and different approaches to software development.
 
 ### My Story.
-I've always been into technology since I was young, starting from the first IBM computer with the huge 5.5 inch floppy disk, then progressing to building my own PC. Finally got a taste of programming in high school with Turbo Pascal. From there, an opportunity opened when I found App Academy. It gave me the chance to jump back into the tech world. We learned full stack software development that was tailored to real world professional settings. I completed this course while also working full time, and thus evidence of my dedication to transition to this field. I was able to complete 3 full stack projects using various languages such as Javascript and Python. 
+From my early days tinkering with the first IBM computer, equipped with the sizable 5.5-inch floppy disk, to assembling my own PC, technology has always been interest in my live. 
+The spark of programming ignited during high school with Turbo Pascal, setting the stage for programming. An opportunity arose when I discovered App Academy, providing a gateway to reenter the tech world. The comprehensive full-stack software development program, tailored to real-world professional settings, became my launchpad. Balancing the demands of a full-time job, I dedicated myself to completing the course, demonstrating my unwavering commitment to transitioning into this field. I tackled three full-stack projects, written with languages such as Javascript and Python. Then finally deployed on Render.
 
 ### Currently
-- 🔭 I'm always persevering, improving my algorithmic problem-solving skills through platforms like Code of Advent, LeetCode, Structy, and Hackerrank.
-- 👯 As continuing education, I also recently completed a Java course that focuses on side by side coding / testing using MVC principals, Mavaen, and Springboot.
+- 🔭 Dedication to continuous improvement, I consistently am improving my algorithmic problem-solving skills through various platforms. Engaging challenges on platforms such as Code of   
+  Advent, LeetCode, Structy, and Hackerrank.
+- 👯 In my pursuit of continuous education, I recently completed a comprehensive Java course that placed a strong emphasis on hands-on coding and testing using MVC principles.
+      The course delved into the combination of Maven and Spring Boot, providing insights into building robust and scalable applications. With a focus on practical implementation, the side-by-side coding
+      and testing approach using Maven allowed me to gain a deep understanding of how MVC (Model-View-Controller) principles in Java development. The integration of Spring Boot added another layer enabling the           creation of dynamic applications.
 - ⚡ Fun fact: My hobbies are photography, go-karts, grilling, trying / building new things.
 - 📫 How to reach me: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chris-chan-94567289/)
 
